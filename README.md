@@ -1,4 +1,4 @@
-## 任务
+# 任务
 
 - 创建了两个表
   - 商品: 商品编号、商品名、商品价格、存货
@@ -9,7 +9,7 @@
 - 完成了测试类
 - [测试记录](testHistory.md)
 
-## Bonus
+# Bonus
 
 - 实现分页查询。（未完成）
 - 使用其他连接池，如Druid。（使用了DBCP连接池）
@@ -18,3 +18,18 @@
 
 - 第三方Api调用（未完成）
 
+# 技术栈
+
+1. mysql,version:5.7.44
+
+2. SQyog
+
+3. mysql-connector-j-8.2.0
+
+4. JDBC
+
+   commons-dbcp2-2.11.0.jar
+
+   commons-logging-1.3.0.jar
+
+   commons-pool2-2.12.0.jar
