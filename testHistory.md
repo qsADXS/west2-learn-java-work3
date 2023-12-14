@@ -155,3 +155,4 @@ FROM table_name [as table_alias]
     --  指定查询的记录从哪条至哪条
 ```
 
+终于写完了（QAQ）
