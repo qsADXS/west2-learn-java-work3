@@ -7,6 +7,7 @@
 - 通过sqlyog创建表
 - 编写JBDC工具，完成要求任务
 - 完成了测试类
+- [测试纪录](testHistor.md)
 
 ## Bonus
 
