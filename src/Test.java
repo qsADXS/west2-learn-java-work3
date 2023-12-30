@@ -1,6 +1,6 @@
 import java.sql.SQLException;
 
-public class Text {
+public class Test {
     public static void main(String[] args) throws SQLException {
         /*开始时两个表为空，
         字段
